@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-erp-app
 =======
 =======
 Yii 2 Advanced Application Template
@@ -128,4 +126,3 @@ After that is done you should be able to run your tests, for example to run `fro
 In similar way you can run tests for other application tiers - `backend`, `console`, `common`.
 
 You also can adjust you application suite configs and `_bootstrap.php` settings to use other urls and files, as it is can be done in `yii2-basic`.
->>>>>>> branch 'master' of https://github.com/yiisoft/yii2-app-advanced.git
